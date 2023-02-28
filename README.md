@@ -17,3 +17,6 @@ The second page of the app lets the user explore past data. This past data is st
 Example: 
 
 <img width="687" alt="image" src="https://user-images.githubusercontent.com/50981903/221838208-49d5354b-7811-4033-8366-497360bbc742.png">
+
+Credits:
+Akhil Brijesh
